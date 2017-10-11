@@ -33,7 +33,7 @@ include_graphics("https://raw.githubusercontent.com/cardiomoon/korspacing/master
 
 ```
 2. RStudio Addin 중 korspacing을 실행한다.
-```{r} 
+```{r}  
 library(knitr)
 include_graphics("https://raw.githubusercontent.com/cardiomoon/korspacing/master/man/figures/fig2.png")
 ```
