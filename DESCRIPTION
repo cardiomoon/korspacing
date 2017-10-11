@@ -1,0 +1,17 @@
+Package: korspacing
+Type: Package
+Title: An RStudio Addin for Check Spacing of Korean Sentences
+Imports:
+    rstudioapi,
+    httr
+Version: 0.1.0
+Authors@R: person("Keon-Woong", "Moon", email = "cardiomoon@gmail.com",
+    role = c("aut", "cre"))
+Description: An RStudio addin for check spacing of Korean sentences.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
