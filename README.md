@@ -27,10 +27,28 @@ devtools::install_github("cardiomoon/korspacing")
 
 1. R session 에서 띄어쓰기를 할 문장을 hightlight한다.
 
+```r
+library(knitr)
+include_graphics("https://raw.githubusercontent.com/cardiomoon/korspacing/master/man/figures/fig1.png")
+```
+
+<img src="https://raw.githubusercontent.com/cardiomoon/korspacing/master/man/figures/fig1.png" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" width="70%" style="display: block; margin: auto;" />
 2. RStudio Addin 중 korspacing을 실행한다.
 
+```r
+library(knitr)
+include_graphics("https://raw.githubusercontent.com/cardiomoon/korspacing/master/man/figures/fig2.png")
+```
+
+<img src="https://raw.githubusercontent.com/cardiomoon/korspacing/master/man/figures/fig2.png" title="plot of chunk unnamed-chunk-3" alt="plot of chunk unnamed-chunk-3" width="70%" style="display: block; margin: auto;" />
 3. hightlight한 문장이 띄어쓰기가 된 문장으로 대체된다. 
 
+```r
+library(knitr)
+include_graphics("https://raw.githubusercontent.com/cardiomoon/korspacing/master/man/figures/fig3.png")
+```
+
+<img src="https://raw.githubusercontent.com/cardiomoon/korspacing/master/man/figures/fig3.png" title="plot of chunk unnamed-chunk-4" alt="plot of chunk unnamed-chunk-4" width="70%" style="display: block; margin: auto;" />
 
 ## 사용법
 
