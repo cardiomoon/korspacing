@@ -4,7 +4,7 @@ author: "Keon-Woong Moon"
 date: "2017-10-12"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{kospaing}
+  %\VignetteIndexEntry{korspacing}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
